@@ -31,3 +31,10 @@ jobs:
             --exclude ".github/*" \
             --exclude ".gitignore" \
             --exclude "README.md"
+
+      - name: Invalidate CloudFront
+        if: ${{ secrets.CLOUDFRONT_DISTRIBUTION_ID != '' }}
+        run: |
+          aws cloudfront create-invalidation \
+            --distribution-id "${{ secrets.CLOUDFRONT_DISTRIBUTION_ID }}" \
+            --paths "/*"
