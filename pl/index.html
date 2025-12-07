@@ -26,9 +26,9 @@
       margin: 0;
       padding: 0;
       overflow: auto;
-      background-color: #f9f9f9;
+      background-color: #ffffff;
       font-family: 'Helvetica Neue', Arial, sans-serif;
-      color: #333;
+      color: #111111;
     }
     
     .container {
@@ -54,10 +54,10 @@
   pointer-events: none;
 }
     
-    .content {
+    main.content {
       max-width: 600px;
       padding: 3rem;
-      background-color: rgba(255, 255, 255, 0.95);
+      background-color: #ffffff;
       border-radius: 2px;
       box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
       z-index: 1;
@@ -70,13 +70,13 @@
       font-weight: 300;
       letter-spacing: 0.5px;
       margin-bottom: 0.5rem;
-      color: #222;
+      color: #0d0d0d;
     }
     
     .tagline {
       font-size: 1.1rem;
       font-weight: 300;
-      color: #555;
+      color: #1a1a1a;
       margin-bottom: 2rem;
       letter-spacing: 0.3px;
     }
@@ -90,7 +90,7 @@
     }
 
     .lang-switcher a {
-      color: #555;
+      color: #0f0f0f;
       text-decoration: none;
       padding: 4px 8px;
       border-radius: 2px;
@@ -102,9 +102,13 @@
       background-color: #111;
       color: #fff;
     }
+    .lang-switcher a:focus-visible {
+      outline: 2px solid #111;
+      outline-offset: 2px;
+    }
     
     p {
-      color: #666;
+      color: #111111;
       line-height: 1.6;
       font-weight: 300;
       margin-bottom: 1.5rem;
@@ -114,8 +118,8 @@
       display: inline-flex;
       align-items: center;
       padding: 10px 20px;
-      background-color: #25D366;
-      color: white;
+      background-color: #128C7E;
+      color: #ffffff;
       text-decoration: none;
       border-radius: 2px;
       font-size: 0.9rem;
@@ -127,7 +131,7 @@
     }
     
     .cta-button:hover {
-      background-color: #128C7E;
+      background-color: #0f6f64;
       transform: translateY(-2px);
       box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
     }
@@ -181,6 +185,7 @@
       min-width: 16px;
       margin-right: 0.5rem;
       margin-top: 0.2rem;
+      fill: #222222;
     }
   
     @media (max-width: 768px) {
@@ -270,7 +275,7 @@
       </svg>
     </div>
     
-    <div class="content">
+    <main class="content">
       <h1 class="logo">Consulting Huber – Doradztwo strategiczne i innowacje, Warszawa · Globalnie</h1>
       <div class="tagline">Strategia & Innowacje</div>
       <nav class="lang-switcher" aria-label="Language switcher">
@@ -348,7 +353,7 @@ i <strong>MŚP</strong> w różnych branżach, pomagając im radzić sobie ze z�
       <div class="footer-info">
         © 2025 Consulting Huber · PL5272509306
       </div>
-    </div>
+    </main>
   </div>
 
   <script>
