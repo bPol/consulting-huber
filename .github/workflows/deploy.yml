@@ -12,6 +12,8 @@ jobs:
   deploy:
     environment: production
     runs-on: ubuntu-latest
+    env:
+      CLOUDFRONT_DISTRIBUTION_ID: ${{ secrets.CLOUDFRONT_DISTRIBUTION_ID }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -33,8 +35,8 @@ jobs:
             --exclude "README.md"
 
       - name: Invalidate CloudFront
-        if: ${{ secrets.CLOUDFRONT_DISTRIBUTION_ID != '' }}
+        if: ${{ env.CLOUDFRONT_DISTRIBUTION_ID != '' }}
         run: |
           aws cloudfront create-invalidation \
-            --distribution-id "${{ secrets.CLOUDFRONT_DISTRIBUTION_ID }}" \
+            --distribution-id "${{ env.CLOUDFRONT_DISTRIBUTION_ID }}" \
             --paths "/*"
