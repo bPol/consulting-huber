@@ -1,0 +1,281 @@
+{
+  "default": {
+    "title": "Consulting Huber | Hands-on consulting",
+    "description": "Hands-on consulting for corporate and public sector leaders, delivered globally with clear outcomes, execution support, and measured impact.",
+    "canonical": "https://consulting-huber.com/",
+    "ogTitle": "Consulting Huber | Hands-on consulting",
+    "ogDescription": "Hands-on consulting for corporate and public sector leaders, delivered globally with clear outcomes, execution support, and measured impact.",
+    "ogUrl": "https://consulting-huber.com/",
+    "ogType": "website"
+  },
+  "/": {
+    "title": "Strategy & Leadership Consulting | Consulting Huber",
+    "description": "Hands-on consulting for corporate and public sector leaders, delivered globally with clear outcomes, execution support, and measured impact.",
+    "canonical": "https://consulting-huber.com/",
+    "ogTitle": "Strategy & Leadership Consulting | Consulting Huber",
+    "ogDescription": "Hands-on consulting for corporate and public sector leaders, delivered globally with clear outcomes, execution support, and measured impact.",
+    "ogUrl": "https://consulting-huber.com/",
+    "ogType": "website"
+  },
+  "/index.html": {
+    "title": "Strategy & Leadership Consulting | Consulting Huber",
+    "description": "Hands-on consulting for corporate and public sector leaders, delivered globally with clear outcomes, execution support, and measured impact.",
+    "canonical": "https://consulting-huber.com/",
+    "ogTitle": "Strategy & Leadership Consulting | Consulting Huber",
+    "ogDescription": "Hands-on consulting for corporate and public sector leaders, delivered globally with clear outcomes, execution support, and measured impact.",
+    "ogUrl": "https://consulting-huber.com/",
+    "ogType": "website"
+  },
+  "/fr/": {
+    "title": "Strategy & Leadership Consulting FR | Consulting Huber",
+    "description": "Hands-on consulting for corporate and public sector leaders, delivered globally with clear outcomes and execution support for FR audiences.",
+    "canonical": "https://consulting-huber.com/fr/",
+    "ogTitle": "Strategy & Leadership Consulting FR | Consulting Huber",
+    "ogDescription": "Hands-on consulting for corporate and public sector leaders, delivered globally with clear outcomes and execution support for FR audiences.",
+    "ogUrl": "https://consulting-huber.com/fr/",
+    "ogType": "website"
+  },
+  "/fr/index.html": {
+    "title": "Strategy & Leadership Consulting FR | Consulting Huber",
+    "description": "Hands-on consulting for corporate and public sector leaders, delivered globally with clear outcomes and execution support for FR audiences.",
+    "canonical": "https://consulting-huber.com/fr/",
+    "ogTitle": "Strategy & Leadership Consulting FR | Consulting Huber",
+    "ogDescription": "Hands-on consulting for corporate and public sector leaders, delivered globally with clear outcomes and execution support for FR audiences.",
+    "ogUrl": "https://consulting-huber.com/fr/",
+    "ogType": "website"
+  },
+  "/de/": {
+    "title": "Strategy & Leadership Consulting DE | Consulting Huber",
+    "description": "Hands-on consulting for corporate and public sector leaders, delivered globally with clear outcomes and execution support for DE audiences.",
+    "canonical": "https://consulting-huber.com/de/",
+    "ogTitle": "Strategy & Leadership Consulting DE | Consulting Huber",
+    "ogDescription": "Hands-on consulting for corporate and public sector leaders, delivered globally with clear outcomes and execution support for DE audiences.",
+    "ogUrl": "https://consulting-huber.com/de/",
+    "ogType": "website"
+  },
+  "/de/index.html": {
+    "title": "Strategy & Leadership Consulting DE | Consulting Huber",
+    "description": "Hands-on consulting for corporate and public sector leaders, delivered globally with clear outcomes and execution support for DE audiences.",
+    "canonical": "https://consulting-huber.com/de/",
+    "ogTitle": "Strategy & Leadership Consulting DE | Consulting Huber",
+    "ogDescription": "Hands-on consulting for corporate and public sector leaders, delivered globally with clear outcomes and execution support for DE audiences.",
+    "ogUrl": "https://consulting-huber.com/de/",
+    "ogType": "website"
+  },
+  "/pl/": {
+    "title": "Strategy & Leadership Consulting PL | Consulting Huber",
+    "description": "Hands-on consulting for corporate and public sector leaders, delivered globally with clear outcomes and execution support for PL audiences.",
+    "canonical": "https://consulting-huber.com/pl/",
+    "ogTitle": "Strategy & Leadership Consulting PL | Consulting Huber",
+    "ogDescription": "Hands-on consulting for corporate and public sector leaders, delivered globally with clear outcomes and execution support for PL audiences.",
+    "ogUrl": "https://consulting-huber.com/pl/",
+    "ogType": "website"
+  },
+  "/pl/index.html": {
+    "title": "Strategy & Leadership Consulting PL | Consulting Huber",
+    "description": "Hands-on consulting for corporate and public sector leaders, delivered globally with clear outcomes and execution support for PL audiences.",
+    "canonical": "https://consulting-huber.com/pl/",
+    "ogTitle": "Strategy & Leadership Consulting PL | Consulting Huber",
+    "ogDescription": "Hands-on consulting for corporate and public sector leaders, delivered globally with clear outcomes and execution support for PL audiences.",
+    "ogUrl": "https://consulting-huber.com/pl/",
+    "ogType": "website"
+  },
+  "/services.html": {
+    "title": "Services | Consulting Huber",
+    "description": "Hands-on services for corporate and public sector leaders, delivered globally across strategy, applied AI, people crisis, and interim leadership.",
+    "canonical": "https://consulting-huber.com/services.html",
+    "ogTitle": "Services | Consulting Huber",
+    "ogDescription": "Hands-on services for corporate and public sector leaders, delivered globally across strategy, applied AI, people crisis, and interim leadership.",
+    "ogUrl": "https://consulting-huber.com/services.html",
+    "ogType": "website"
+  },
+  "/success-stories.html": {
+    "title": "Success Stories | Consulting Huber",
+    "description": "Hands-on results for corporate and public sector leaders, delivered globally with short success stories and measurable impact, using TODO metrics.",
+    "canonical": "https://consulting-huber.com/success-stories.html",
+    "ogTitle": "Success Stories | Consulting Huber",
+    "ogDescription": "Hands-on results for corporate and public sector leaders, delivered globally with short success stories and measurable impact, using TODO metrics.",
+    "ogUrl": "https://consulting-huber.com/success-stories.html",
+    "ogType": "website"
+  },
+  "/ai-transformation.html": {
+    "title": "Applied AI Consulting | Consulting Huber",
+    "description": "Hands-on applied AI for corporate and public sector teams, delivered globally to move from pilots to production with governance and outcomes.",
+    "canonical": "https://consulting-huber.com/ai-transformation.html",
+    "ogTitle": "Applied AI Consulting | Consulting Huber",
+    "ogDescription": "Hands-on applied AI for corporate and public sector teams, delivered globally to move from pilots to production with governance and outcomes.",
+    "ogUrl": "https://consulting-huber.com/ai-transformation.html",
+    "ogType": "website"
+  },
+  "/kpi-setup.html": {
+    "title": "KPI Setup Consulting | Consulting Huber",
+    "description": "Hands-on KPI setup for corporate and public sector teams, delivered globally to align goals, reporting cadence, and decision-ready dashboards.",
+    "canonical": "https://consulting-huber.com/kpi-setup.html",
+    "ogTitle": "KPI Setup Consulting | Consulting Huber",
+    "ogDescription": "Hands-on KPI setup for corporate and public sector teams, delivered globally to align goals, reporting cadence, and decision-ready dashboards.",
+    "ogUrl": "https://consulting-huber.com/kpi-setup.html",
+    "ogType": "website"
+  },
+  "/hr-setup.html": {
+    "title": "HR Setup Consulting | Consulting Huber",
+    "description": "Hands-on HR setup for corporate and public sector teams, delivered globally to build people processes, leadership routines, and foundations.",
+    "canonical": "https://consulting-huber.com/hr-setup.html",
+    "ogTitle": "HR Setup Consulting | Consulting Huber",
+    "ogDescription": "Hands-on HR setup for corporate and public sector teams, delivered globally to build people processes, leadership routines, and foundations.",
+    "ogUrl": "https://consulting-huber.com/hr-setup.html",
+    "ogType": "website"
+  },
+  "/strategy-leadership.html": {
+    "title": "Strategy & Leadership Service | Consulting Huber",
+    "description": "Hands-on strategy and leadership for corporate and public sector teams, delivered globally to align direction, governance, and change.",
+    "canonical": "https://consulting-huber.com/strategy-leadership.html",
+    "ogTitle": "Strategy & Leadership Service | Consulting Huber",
+    "ogDescription": "Hands-on strategy and leadership for corporate and public sector teams, delivered globally to align direction, governance, and change.",
+    "ogUrl": "https://consulting-huber.com/strategy-leadership.html",
+    "ogType": "website"
+  },
+  "/people-crisis.html": {
+    "title": "People & Crisis Service | Consulting Huber",
+    "description": "Hands-on people and crisis support for corporate and public sector teams, delivered globally to stabilize leadership, communication, and decisions.",
+    "canonical": "https://consulting-huber.com/people-crisis.html",
+    "ogTitle": "People & Crisis Service | Consulting Huber",
+    "ogDescription": "Hands-on people and crisis support for corporate and public sector teams, delivered globally to stabilize leadership, communication, and decisions.",
+    "ogUrl": "https://consulting-huber.com/people-crisis.html",
+    "ogType": "website"
+  },
+  "/interim-management.html": {
+    "title": "Interim Management Service | Consulting Huber",
+    "description": "Hands-on interim management for corporate and public sector teams, delivered globally to provide continuity, leadership, and stabilization.",
+    "canonical": "https://consulting-huber.com/interim-management.html",
+    "ogTitle": "Interim Management Service | Consulting Huber",
+    "ogDescription": "Hands-on interim management for corporate and public sector teams, delivered globally to provide continuity, leadership, and stabilization.",
+    "ogUrl": "https://consulting-huber.com/interim-management.html",
+    "ogType": "website"
+  },
+  "/adrianna-huber-cv.html": {
+    "title": "Adrianna Huber CV | Consulting Huber",
+    "description": "Hands-on corporate and public sector leadership profile for Adrianna Huber, covering experience, roles, and global engagement.",
+    "canonical": "https://consulting-huber.com/adrianna-huber-cv.html",
+    "ogTitle": "Adrianna Huber CV | Consulting Huber",
+    "ogDescription": "Hands-on corporate and public sector leadership profile for Adrianna Huber, covering experience, roles, and global engagement.",
+    "ogUrl": "https://consulting-huber.com/adrianna-huber-cv.html",
+    "ogType": "website"
+  },
+  "/bernhard-huber-cv.html": {
+    "title": "Bernhard Huber CV | Consulting Huber",
+    "description": "Hands-on corporate and public sector leadership profile for Bernhard Huber, covering experience, roles, and global engagement.",
+    "canonical": "https://consulting-huber.com/bernhard-huber-cv.html",
+    "ogTitle": "Bernhard Huber CV | Consulting Huber",
+    "ogDescription": "Hands-on corporate and public sector leadership profile for Bernhard Huber, covering experience, roles, and global engagement.",
+    "ogUrl": "https://consulting-huber.com/bernhard-huber-cv.html",
+    "ogType": "website"
+  },
+  "/fr/adrianna-huber-cv.html": {
+    "title": "Adrianna Huber CV FR | Consulting Huber",
+    "description": "Hands-on corporate and public sector leadership profile for Adrianna Huber, covering experience and global work for FR audiences.",
+    "canonical": "https://consulting-huber.com/fr/adrianna-huber-cv.html",
+    "ogTitle": "Adrianna Huber CV FR | Consulting Huber",
+    "ogDescription": "Hands-on corporate and public sector leadership profile for Adrianna Huber, covering experience and global work for FR audiences.",
+    "ogUrl": "https://consulting-huber.com/fr/adrianna-huber-cv.html",
+    "ogType": "website"
+  },
+  "/fr/bernhard-huber-cv.html": {
+    "title": "Bernhard Huber CV FR | Consulting Huber",
+    "description": "Hands-on corporate and public sector leadership profile for Bernhard Huber, covering experience and global work for FR audiences.",
+    "canonical": "https://consulting-huber.com/fr/bernhard-huber-cv.html",
+    "ogTitle": "Bernhard Huber CV FR | Consulting Huber",
+    "ogDescription": "Hands-on corporate and public sector leadership profile for Bernhard Huber, covering experience and global work for FR audiences.",
+    "ogUrl": "https://consulting-huber.com/fr/bernhard-huber-cv.html",
+    "ogType": "website"
+  },
+  "/de/adrianna-huber-cv.html": {
+    "title": "Adrianna Huber CV DE | Consulting Huber",
+    "description": "Hands-on corporate and public sector leadership profile for Adrianna Huber, covering experience and global work for DE audiences.",
+    "canonical": "https://consulting-huber.com/de/adrianna-huber-cv.html",
+    "ogTitle": "Adrianna Huber CV DE | Consulting Huber",
+    "ogDescription": "Hands-on corporate and public sector leadership profile for Adrianna Huber, covering experience and global work for DE audiences.",
+    "ogUrl": "https://consulting-huber.com/de/adrianna-huber-cv.html",
+    "ogType": "website"
+  },
+  "/de/bernhard-huber-cv.html": {
+    "title": "Bernhard Huber CV DE | Consulting Huber",
+    "description": "Hands-on corporate and public sector leadership profile for Bernhard Huber, covering experience and global work for DE audiences.",
+    "canonical": "https://consulting-huber.com/de/bernhard-huber-cv.html",
+    "ogTitle": "Bernhard Huber CV DE | Consulting Huber",
+    "ogDescription": "Hands-on corporate and public sector leadership profile for Bernhard Huber, covering experience and global work for DE audiences.",
+    "ogUrl": "https://consulting-huber.com/de/bernhard-huber-cv.html",
+    "ogType": "website"
+  },
+  "/pl/adrianna-huber-cv.html": {
+    "title": "Adrianna Huber CV PL | Consulting Huber",
+    "description": "Hands-on corporate and public sector leadership profile for Adrianna Huber, covering experience and global work for PL audiences.",
+    "canonical": "https://consulting-huber.com/pl/adrianna-huber-cv.html",
+    "ogTitle": "Adrianna Huber CV PL | Consulting Huber",
+    "ogDescription": "Hands-on corporate and public sector leadership profile for Adrianna Huber, covering experience and global work for PL audiences.",
+    "ogUrl": "https://consulting-huber.com/pl/adrianna-huber-cv.html",
+    "ogType": "website"
+  },
+  "/pl/bernhard-huber-cv.html": {
+    "title": "Bernhard Huber CV PL | Consulting Huber",
+    "description": "Hands-on corporate and public sector leadership profile for Bernhard Huber, covering experience and global work for PL audiences.",
+    "canonical": "https://consulting-huber.com/pl/bernhard-huber-cv.html",
+    "ogTitle": "Bernhard Huber CV PL | Consulting Huber",
+    "ogDescription": "Hands-on corporate and public sector leadership profile for Bernhard Huber, covering experience and global work for PL audiences.",
+    "ogUrl": "https://consulting-huber.com/pl/bernhard-huber-cv.html",
+    "ogType": "website"
+  },
+  "/fr/services.html": {
+    "title": "Services FR | Consulting Huber",
+    "description": "Hands-on services for corporate and public sector leaders, delivered globally across strategy, applied AI, people crisis, and interim leadership for FR.",
+    "canonical": "https://consulting-huber.com/fr/services.html",
+    "ogTitle": "Services FR | Consulting Huber",
+    "ogDescription": "Hands-on services for corporate and public sector leaders, delivered globally across strategy, applied AI, people crisis, and interim leadership for FR.",
+    "ogUrl": "https://consulting-huber.com/fr/services.html",
+    "ogType": "website"
+  },
+  "/de/services.html": {
+    "title": "Services DE | Consulting Huber",
+    "description": "Hands-on services for corporate and public sector leaders, delivered globally across strategy, applied AI, people crisis, and interim leadership for DE.",
+    "canonical": "https://consulting-huber.com/de/services.html",
+    "ogTitle": "Services DE | Consulting Huber",
+    "ogDescription": "Hands-on services for corporate and public sector leaders, delivered globally across strategy, applied AI, people crisis, and interim leadership for DE.",
+    "ogUrl": "https://consulting-huber.com/de/services.html",
+    "ogType": "website"
+  },
+  "/pl/services.html": {
+    "title": "Services PL | Consulting Huber",
+    "description": "Hands-on services for corporate and public sector leaders, delivered globally across strategy, applied AI, people crisis, and interim leadership for PL.",
+    "canonical": "https://consulting-huber.com/pl/services.html",
+    "ogTitle": "Services PL | Consulting Huber",
+    "ogDescription": "Hands-on services for corporate and public sector leaders, delivered globally across strategy, applied AI, people crisis, and interim leadership for PL.",
+    "ogUrl": "https://consulting-huber.com/pl/services.html",
+    "ogType": "website"
+  },
+  "/fr/success-stories.html": {
+    "title": "Success Stories FR | Consulting Huber",
+    "description": "Hands-on results for corporate and public sector leaders, delivered globally with short success stories and measurable impact for FR.",
+    "canonical": "https://consulting-huber.com/fr/success-stories.html",
+    "ogTitle": "Success Stories FR | Consulting Huber",
+    "ogDescription": "Hands-on results for corporate and public sector leaders, delivered globally with short success stories and measurable impact for FR.",
+    "ogUrl": "https://consulting-huber.com/fr/success-stories.html",
+    "ogType": "website"
+  },
+  "/de/success-stories.html": {
+    "title": "Success Stories DE | Consulting Huber",
+    "description": "Hands-on results for corporate and public sector leaders, delivered globally with short success stories and measurable impact for DE.",
+    "canonical": "https://consulting-huber.com/de/success-stories.html",
+    "ogTitle": "Success Stories DE | Consulting Huber",
+    "ogDescription": "Hands-on results for corporate and public sector leaders, delivered globally with short success stories and measurable impact for DE.",
+    "ogUrl": "https://consulting-huber.com/de/success-stories.html",
+    "ogType": "website"
+  },
+  "/pl/success-stories.html": {
+    "title": "Success Stories PL | Consulting Huber",
+    "description": "Hands-on results for corporate and public sector leaders, delivered globally with short success stories and measurable impact for PL.",
+    "canonical": "https://consulting-huber.com/pl/success-stories.html",
+    "ogTitle": "Success Stories PL | Consulting Huber",
+    "ogDescription": "Hands-on results for corporate and public sector leaders, delivered globally with short success stories and measurable impact for PL.",
+    "ogUrl": "https://consulting-huber.com/pl/success-stories.html",
+    "ogType": "website"
+  }
+}
